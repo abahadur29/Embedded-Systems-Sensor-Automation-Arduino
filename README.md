@@ -52,27 +52,8 @@ The objective of this course is to understand the working principles and applica
 - **Microcontroller:** Arduino Uno  
 - **Software:** Arduino IDE 2.2.1  
 - **Languages:** C/C++ (Arduino)  
-- **Other Hardware:** Breadboard, Resistors, Sensors (LM35, HC-SR04), Actuators (DC Motor), LCD, LEDs, 7-Segment Display  
-
----
-
-## 📁 Folder Structure
-│
-├── Experiment-1_LED-Blink/
-│ └── led_blink.ino
-├── Experiment-2_LCD-Display/
-│ └── lcd_display.ino
-├── Experiment-3_Seven-Segment/
-│ └── seven_segment.ino
-├── Experiment-4_LM35-Temp-Sensor/
-│ └── lm35_temp.ino
-├── Experiment-5_HC-SR04-Distance/
-│ └── hcsr04_distance.ino
-├── Experiment-6_DC-Motor-Control/
-│ └── dc_motor.ino
-└── README.md
-
-
+- **Other Hardware:** Breadboard, Resistors, Sensors (LM35, HC-SR04), Actuators (DC Motor), LCD, LEDs, 7-Segment Display
+  
 ---
 
 ## 📬 Contact Me
